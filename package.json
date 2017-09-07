@@ -1,0 +1,23 @@
+{
+  "name": "tdd-training-fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzBuzz.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwake/tdd-training-fizz-buzz.git"
+  },
+  "author": "john wakeling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwake/tdd-training-fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/johnwake/tdd-training-fizz-buzz#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
