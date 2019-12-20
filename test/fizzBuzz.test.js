@@ -15,6 +15,6 @@ describe('Fizz Buzz App', () => {
     });
 
     it('If not a Multiple of 3 or 5 the returns the number', () => {
-        expect(fizzBuzz(input)).to.equal(8);
+        expect(fizzBuzz(8)).to.equal(8);
     });
 });
